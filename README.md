@@ -25,4 +25,4 @@ This repo is used to play with github commands like push,pull,commit which will 
 
 Myself Nikitha Mandala and Graduate Degree program is Applied Computer Science.
 
-![My image](https://github.com/nikithamandala/aboutme/blob/master/nikitha.jpeg)
+![My image](aboutme/nikitha.jpeg)
