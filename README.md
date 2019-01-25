@@ -21,3 +21,8 @@ This repo is used to play with github commands like push,pull,commit which will 
 - [codecademy](https://www.codecademy.com/learn/learn-html) - A course will helps us to wuickly learn how to create web pages.
 - [Git](https://git-scm.com/) - This websites helps us to learn how to work with commands like pull, push, commit etc.
 
+## Contributors
+
+Myself Nikitha Mandala and Graduate Degree program is Applied Computer Science.
+
+![Hosted image](https://github.com/nikithamandala/aboutme/blob/master/nikitha.jpeg)
