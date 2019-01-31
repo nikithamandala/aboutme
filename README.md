@@ -11,9 +11,9 @@ This repo is used to play with github commands like push,pull,commit which will 
 
 ## Recommended Tools
 
-- Visual Studio Code - VSCode is a source code editor an IDE which supports debugging, git commands.
-- HTML - HTML is a standard markup language to create web pages.
-- CSS - Cascading style sheets is a language used to design web pages.
+- [Visual Studio Code](https://code.visualstudio.com/) - VSCode is a source code editor an IDE which supports debugging, git commands.
+- [HTML](https://html.com/) - HTML is a standard markup language to create web pages.
+- [CSS](https://css-tricks.com/) - Cascading style sheets is a language used to design web pages.
 
 ## Recommended Resources
 
